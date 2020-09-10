@@ -52,35 +52,39 @@ body{
                 width: 90%;
                 margin-left:5%;
                 margin-top: 80px; 
-                margin-bottom: 20px;
             }
                 h1{
-                    font-size: 300px;
+                    font-size: 330px;
                     display: inline-block;
-                    /* float: left; */
+                    color: #45B7B8;
                 }
                 #first{
-                    margin-left: 80px;
+                    margin-left: 100px;
                 }
                 img{
                     display: inline-block;
                     /* float: left; */
-                    width: 35%;
-                    margin-top: 5%;
+                    width: 30%;
+                    margin-top: 7%;
                 }
             .text{
                 display: inline-block;
                 float: left;
                 width: 100%;
+                margin-bottom: 130px;
             }
                 p{
-                    margin-left: 20%;
+                    margin-left: 32%;
                     font-size: 25px;
+                    word-spacing: 4px;
                 }
                 p::before{
                     content: "•";
+                    color: #EE4E3E;
+                    margin-right: 5px;
                 }
                 p::after{
                     content: "•";
                     color: #EE4E3E;
+                    margin-left: 5px;
                 }
